@@ -41,7 +41,7 @@ class MainFragment : Fragment() {
         if (!isPermissionGranted(Manifest.permission.ACCESS_FINE_LOCATION)) {
             permissionListener()
             pLauncher.launch(Manifest.permission.ACCESS_FINE_LOCATION)
-        }
+        }// дописать если нет выводить определенный город
     }
 
     companion object {
