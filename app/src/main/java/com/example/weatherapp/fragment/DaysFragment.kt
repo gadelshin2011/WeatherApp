@@ -37,6 +37,7 @@ class DaysFragment : Fragment(), WeatherAdapter.Listener {
     private fun updateDaysCard(){
         model.liveDataList.observe(viewLifecycleOwner){
             adapter.submitList(it.subList(1, it.size))
+
         }
     }
 
