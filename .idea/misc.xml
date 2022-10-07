@@ -5,10 +5,11 @@
       <map>
         <entry key="..\:/Users/gadel/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_search.xml" value="0.304" />
         <entry key="..\:/Users/gadel/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_sync.xml" value="0.304" />
+        <entry key="..\:/Users/gadel/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_sync2.xml" value="0.1915" />
         <entry key="..\:/Users/gadel/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/gadel/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/fragment_days.xml" value="0.371875" />
+        <entry key="..\:/Users/gadel/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/fragment_days.xml" value="0.33665835411471323" />
         <entry key="..\:/Users/gadel/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/fragment_hours.xml" value="0.33" />
-        <entry key="..\:/Users/gadel/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/fragment_main.xml" value="0.15151515151515152" />
+        <entry key="..\:/Users/gadel/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/fragment_main.xml" value="0.25" />
         <entry key="..\:/Users/gadel/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/list_item.xml" value="0.25" />
       </map>
     </option>
